@@ -1,0 +1,7 @@
+name: genpark-markdown-table-ast-normalizer-skill
+description: AST-based Markdown table normalizer rebalancing columns, padding, and exporting clean RFC 4180 CSV and JSON records
+version: 1.0.1
+entrypoint: mcp_server.py
+command: python
+args:
+  - mcp_server.py
