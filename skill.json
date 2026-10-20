@@ -1,0 +1,9 @@
+{
+  "name": "genpark-markdown-table-ast-normalizer-skill",
+  "version": "1.0.1",
+  "description": "AST-based Markdown table normalizer rebalancing columns, padding, and exporting clean RFC 4180 CSV and JSON records",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "homepage": "https://www.genpark.ai",
+  "entrypoint": "mcp_server.py"
+}
